@@ -48,10 +48,10 @@ do
                 case 4:
                     calculadora.Dividir(num);
                     break;
+
             }
         }
         Console.WriteLine("Resultado: " + calculadora.Resultado);
     }
 } while (aux > 0 && aux <= 5);
-
 Console.WriteLine("Fin del programa...");
