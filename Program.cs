@@ -48,7 +48,6 @@ do
                 case 4:
                     calculadora.Dividir(num);
                     break;
-
             }
         }
         Console.WriteLine("Resultado: " + calculadora.Resultado);
